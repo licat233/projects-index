@@ -1,0 +1,512 @@
+[
+  {
+    "project": "ad-data",
+    "repository": "ad-data",
+    "new_name": "coding-ad-data",
+    "role": "项目代码",
+    "technology": "Go 1.14",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/ad-data.md",
+    "private": true
+  },
+  {
+    "project": "Admonitor",
+    "repository": "Admonitor-api",
+    "new_name": "admonitor-api",
+    "role": "API 服务",
+    "technology": "Go 1.18",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-admonitor",
+    "private": true
+  },
+  {
+    "project": "Admonitor",
+    "repository": "Admonitor-server",
+    "new_name": "coding-admonitor-server",
+    "role": "监控服务端",
+    "technology": "Go 1.18",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-admonitor",
+    "private": true
+  },
+  {
+    "project": "catli.net",
+    "repository": "catli.net",
+    "new_name": "catli-net",
+    "role": "项目代码",
+    "technology": "Go 1.14",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/catli-net.md",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "admin",
+    "new_name": "chatonline-admin",
+    "role": "管理后台",
+    "technology": "Vue / Vite",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "aos",
+    "new_name": "chatonline-android",
+    "role": "Android 客户端",
+    "technology": "Android / Gradle",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "deploy",
+    "new_name": "chatonline-deploy",
+    "role": "部署配置",
+    "technology": "源码 / 文件",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "im",
+    "new_name": "chatonline-im",
+    "role": "即时通讯引擎",
+    "technology": "Go 1.18",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "ios",
+    "new_name": "chatonline-ios",
+    "role": "iOS 客户端",
+    "technology": "iOS / Xcode",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "kefu-client",
+    "new_name": "chatonline-kefu-client",
+    "role": "客服客户端",
+    "technology": "源码 / 文件",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "lib",
+    "new_name": "chatonline-lib",
+    "role": "Go 公共库",
+    "technology": "Go 1.20",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "server",
+    "new_name": "chatonline-server",
+    "role": "业务服务端",
+    "technology": "Go 1.20",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "chatonline",
+    "repository": "web",
+    "new_name": "chatonline-web",
+    "role": "Web 客户端",
+    "technology": "Turborepo",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-chatonline",
+    "private": true
+  },
+  {
+    "project": "cryptpad-build",
+    "repository": "core",
+    "new_name": "cryptpad-build-core",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/cryptpad-build.md",
+    "private": true
+  },
+  {
+    "project": "dsp",
+    "repository": "dspmanage",
+    "new_name": "dsp-manage",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/dsp.md",
+    "private": true
+  },
+  {
+    "project": "golang-gin",
+    "repository": "golang-gin",
+    "new_name": "coding-golang-gin",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/golang-gin.md",
+    "private": true
+  },
+  {
+    "project": "golang-websocket-redis",
+    "repository": "golang-websocket-redis",
+    "new_name": "coding-golang-websocket-redis",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/golang-websocket-redis.md",
+    "private": true
+  },
+  {
+    "project": "jiakao",
+    "repository": "jiakao",
+    "new_name": "jiakao",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/jiakao.md",
+    "private": false
+  },
+  {
+    "project": "licatwork",
+    "repository": "landingPage",
+    "new_name": "licatwork-landing-page",
+    "role": "广告落地页",
+    "technology": "源码 / 文件",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-licatwork",
+    "private": true
+  },
+  {
+    "project": "licatwork",
+    "repository": "licatwork",
+    "new_name": "licatwork",
+    "role": "工作代码",
+    "technology": "PHP / Composer",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-licatwork",
+    "private": true
+  },
+  {
+    "project": "licatwork",
+    "repository": "planttitle",
+    "new_name": "licatwork-planttitle",
+    "role": "植题网站",
+    "technology": "源码 / 文件",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-licatwork",
+    "private": true
+  },
+  {
+    "project": "linedata-lite",
+    "repository": "linedaat-Lite",
+    "new_name": "linedata-lite",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/linedata-lite.md",
+    "private": true
+  },
+  {
+    "project": "linefriend",
+    "repository": "linefriend",
+    "new_name": "linefriend",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/linefriend.md",
+    "private": true
+  },
+  {
+    "project": "luck_draw",
+    "repository": "luck_draw-admin",
+    "new_name": "luck-draw-admin",
+    "role": "管理后台",
+    "technology": "React / Umi",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-luck-draw",
+    "private": true
+  },
+  {
+    "project": "luck_draw",
+    "repository": "luck_draw-server",
+    "new_name": "luck-draw-server",
+    "role": "服务端",
+    "technology": "Go 1.19",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-luck-draw",
+    "private": true
+  },
+  {
+    "project": "luck_draw",
+    "repository": "luck_draw-ui",
+    "new_name": "coding-luck-draw-ui",
+    "role": "用户界面",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-luck-draw",
+    "private": true
+  },
+  {
+    "project": "luckydraw",
+    "repository": "luckydraw-admin",
+    "new_name": "luckydraw-admin",
+    "role": "管理后台",
+    "technology": "React / Umi",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-luckydraw",
+    "private": false
+  },
+  {
+    "project": "luckydraw",
+    "repository": "luckydraw-backend",
+    "new_name": "luckydraw-backend",
+    "role": "后端",
+    "technology": "Go 1.20",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-luckydraw",
+    "private": false
+  },
+  {
+    "project": "luckydraw",
+    "repository": "luckydraw-h5",
+    "new_name": "luckydraw-h5",
+    "role": "H5 前端",
+    "technology": "Vue / Vite",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-luckydraw",
+    "private": false
+  },
+  {
+    "project": "mixbench",
+    "repository": "mixbench-backend",
+    "new_name": "mixbench-backend",
+    "role": "后端",
+    "technology": "Go 1.20",
+    "default_branch": "v1",
+    "entry": "https://github.com/licat233/project-mixbench",
+    "private": true
+  },
+  {
+    "project": "mixbench",
+    "repository": "mixbench-frontend",
+    "new_name": "mixbench-frontend",
+    "role": "前端",
+    "technology": "React / Umi",
+    "default_branch": "v1",
+    "entry": "https://github.com/licat233/project-mixbench",
+    "private": true
+  },
+  {
+    "project": "moodmoment",
+    "repository": "MoodMoment-server",
+    "new_name": "coding-moodmoment-server",
+    "role": "服务端",
+    "technology": "Go 1.18",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-moodmoment",
+    "private": true
+  },
+  {
+    "project": "moodmoment",
+    "repository": "MoodMoment-ui",
+    "new_name": "moodmoment-ui",
+    "role": "小程序界面",
+    "technology": "Node.js；微信小程序配置",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-moodmoment",
+    "private": true
+  },
+  {
+    "project": "myblog",
+    "repository": "myblog",
+    "new_name": "myblog",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/myblog.md",
+    "private": true
+  },
+  {
+    "project": "MyResume",
+    "repository": "MyResume",
+    "new_name": "my-resume",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/my-resume.md",
+    "private": true
+  },
+  {
+    "project": "news",
+    "repository": "api",
+    "new_name": "news-api",
+    "role": "API",
+    "technology": "Go 1.21.2",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-news",
+    "private": true
+  },
+  {
+    "project": "news",
+    "repository": "server",
+    "new_name": "news-server",
+    "role": "服务端",
+    "technology": "Go 1.21.1",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-news",
+    "private": true
+  },
+  {
+    "project": "page_center",
+    "repository": "v1",
+    "new_name": "page-center-v1",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/page-center.md",
+    "private": true
+  },
+  {
+    "project": "planttitle",
+    "repository": "app",
+    "new_name": "coding-planttitle-app",
+    "role": "项目代码",
+    "technology": "Node.js",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/planttitle.md",
+    "private": true
+  },
+  {
+    "project": "popincharge",
+    "repository": "popincharge",
+    "new_name": "popincharge",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/popincharge.md",
+    "private": true
+  },
+  {
+    "project": "popindata",
+    "repository": "popindata",
+    "new_name": "coding-popindata",
+    "role": "项目代码",
+    "technology": "Go 1.14",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/popindata.md",
+    "private": true
+  },
+  {
+    "project": "StudyNotes",
+    "repository": "code",
+    "new_name": "study-notes-code",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/study-notes.md",
+    "private": true
+  },
+  {
+    "project": "sunylive",
+    "repository": "galleryUI",
+    "new_name": "sunylive-gallery-ui",
+    "role": "图库界面",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-sunylive",
+    "private": true
+  },
+  {
+    "project": "sunylive",
+    "repository": "sunylive-gallery",
+    "new_name": "coding-sunylive-gallery",
+    "role": "图库",
+    "technology": "Go 1.18",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/project-sunylive",
+    "private": true
+  },
+  {
+    "project": "thinkphp6.0",
+    "repository": "thinkphp6.0",
+    "new_name": "thinkphp6-0",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/thinkphp6-0.md",
+    "private": true
+  },
+  {
+    "project": "webonlinestatistic",
+    "repository": "webonlinestatistic",
+    "new_name": "coding-web-online-statistic",
+    "role": "项目代码",
+    "technology": "Go 1.14",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/web-online-statistic.md",
+    "private": true
+  },
+  {
+    "project": "webpack-ad-data",
+    "repository": "webpack-ad-data",
+    "new_name": "webpack-ad-data",
+    "role": "项目代码",
+    "technology": "Vue",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/webpack-ad-data.md",
+    "private": true
+  },
+  {
+    "project": "websocket",
+    "repository": "websocket",
+    "new_name": "websocket",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/websocket.md",
+    "private": true
+  },
+  {
+    "project": "webStatistic",
+    "repository": "webStatistic",
+    "new_name": "web-statistic",
+    "role": "项目代码",
+    "technology": "源码 / 文件",
+    "default_branch": "master",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/web-statistic.md",
+    "private": true
+  },
+  {
+    "project": "workbench",
+    "repository": "workbench-client",
+    "new_name": "workbench-client",
+    "role": "客户端",
+    "technology": "React / Umi",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-workbench",
+    "private": true
+  },
+  {
+    "project": "workbench",
+    "repository": "workbench-server",
+    "new_name": "workbench-server",
+    "role": "服务端",
+    "technology": "Go 1.18",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/project-workbench",
+    "private": true
+  }
+]
