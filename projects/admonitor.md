@@ -36,4 +36,4 @@ gh repo clone licat233/coding-admonitor-server
 
 项目标签：`project-admonitor`。
 
-在 GitHub 仓库搜索中输入 `user:licat233 topic:project-admonitor` 可查找已标注的组件。私有仓库需要登录并具备访问权限；已归档的相关版本可从上表直接进入。
+在 GitHub 仓库搜索中输入 `user:licat233 topic:project-admonitor` 可查找已标注的组件。所列仓库均已公开，可直接访问；已归档的相关版本也可从上表进入。
