@@ -39,7 +39,6 @@
 | Webpack Ad Data | 广告数据前端项目 | 1 | [进入项目](projects/webpack-ad-data.md) |
 | WebSocket | WebSocket 项目 | 1 | [进入项目](projects/websocket.md) |
 | Workbench | 工作台，包含客户端与服务端 | 2 | [进入项目](https://github.com/licat233/project-workbench) |
-
 | 享购企业数字化运营工作台 | PHP / ThinkPHP 6 企业运营工作台 | 1 | [进入项目](projects/xg-workbench.md) |
 
 ## 使用方式
