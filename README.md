@@ -2,7 +2,7 @@
 
 按项目查找前端、后端、App 和配套仓库。
 
-本索引整理本次从 CODING 迁移的 **31 个项目、51 个组件仓库**，并列出相关的原有 GitHub 版本。
+本索引整理 **32 个项目、52 个组件仓库**，包含从 CODING 迁移的项目和本地新增项目，并列出相关的原有 GitHub 版本。
 
 ## 项目目录
 
@@ -39,6 +39,8 @@
 | Webpack Ad Data | 广告数据前端项目 | 1 | [进入项目](projects/webpack-ad-data.md) |
 | WebSocket | WebSocket 项目 | 1 | [进入项目](projects/websocket.md) |
 | Workbench | 工作台，包含客户端与服务端 | 2 | [进入项目](https://github.com/licat233/project-workbench) |
+
+| 享购企业数字化运营工作台 | PHP / ThinkPHP 6 企业运营工作台 | 1 | [进入项目](projects/xg-workbench.md) |
 
 ## 使用方式
 

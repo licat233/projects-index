@@ -508,5 +508,15 @@
     "default_branch": "main",
     "entry": "https://github.com/licat233/project-workbench",
     "private": false
+  },
+  {
+    "project": "xg-workbench",
+    "repository": "xg-workbench",
+    "new_name": "xg-workbench",
+    "role": "企业数字化运营工作台",
+    "technology": "PHP / ThinkPHP 6",
+    "default_branch": "main",
+    "entry": "https://github.com/licat233/projects-index/blob/main/projects/xg-workbench.md",
+    "private": false
   }
 ]
